@@ -1,3 +1,5 @@
 # Previewing H1 Header
 
-Testing markdown commits
+Testing pictures
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
